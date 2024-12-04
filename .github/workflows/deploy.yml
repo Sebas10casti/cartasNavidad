@@ -16,7 +16,7 @@ jobs:
     - name: Set up Node.js
       uses: actions/setup-node@v2
       with:
-        node-version: '20'  # Asegúrate de usar la versión de Node que estás utilizando
+        node-version: '20'
 
     - name: Install dependencies
       run: npm install
@@ -29,5 +29,4 @@ jobs:
       with:
         personal_token: ${{ secrets.GITHUB_TOKEN }}
         external_repository: ${{ github.repository }}
-        publish_dir: ./dist/navidad-tarjetas  # Cambia esto al nombre correcto de tu carpeta de build
-
+        publish_dir: ./dist/navidad-tarjetas/browser
