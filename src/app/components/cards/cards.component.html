@@ -12,7 +12,7 @@
           <h5>Información</h5>
           <ul>
             @for (item of data.list; track $index) {
-              <li>{{item}}</li>
+              <li [innerHTML]="item"></li>
             }
           </ul>
         </div>

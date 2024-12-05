@@ -56,7 +56,13 @@ export const ITEMS: Card[] = [
   {
     name: 'Marly',
     img: prefix + 'marly.jpg',
-    list: [],
+    list: [
+      '<a href="https://articulo.mercadolibre.com.co/MCO-2320125538-parlante-altavoz-bluetooth-multifuncion-usb-antena-radio-fm-_JM?searchVariation=182435210829#polycard_client=search-nordic&searchVariation=182435210829&position=27&search_layout=stack&type=item&tracking_id=4bf17f43-0c53-48f2-8573-d8b629d955d3" target="_blank">Microfono de perifoneo</a>',
+      '<a href="https://www.mercadolibre.com.co/aro-de-luz-rgb-led-flash-33-cm-fotografia-selfie-tripode-color-de-la-estructura-negro-5/p/MCO21334090#polycard_client=search-nordic&searchVariation=MCO21334090&position=14&search_layout=stack&type=product&tracking_id=01afc76e-a704-40e0-a730-a940bc07a796&wid=MCO2586109716&sid=search" target="_blank">Aro de luz con tripode</a>',
+      '<a href="https://www.mercadolibre.com.co/vivir-en-el-alma/p/MCO22175545#polycard_client=search-nordic&searchVariation=MCO22175545&position=15&search_layout=stack&type=product&tracking_id=dfae159a-927d-4f42-bf49-bdc81c532d51&wid=MCO1371475297&sid=search" target="_blank">Libro Vivir en el alma</a>',
+      '<a href="https://www.panamericana.com.co/pesa-rusa-de-6kg-negra-639419/p?idsku=639419&utm_source=google&utm_medium=max_performance&utm_campaign=Co_Panamericana_google_proveedor_urano_conversion_libros_octubre_25_octubre_al_20_noviembre_2024_max_performance&gad_source=1&gclid=Cj0KCQiAu8W6BhC-ARIsACEQoDDTvVBNIPvKhsjpNUych2RtmoHKfeZmF3q4nvyzsQPzqWqXVgqH-24aApOKEALw_wcB" target="_blank">Pesa Rusa de 6k</a>',
+      '<a href="https://www.mercadolibre.com.co/altavoz-bluetooth-lenovo-k3-pro/p/MCO19858253#polycard_client=search-nordic&searchVariation=MCO19858253&position=3&search_layout=stack&type=product&tracking_id=bf1c6c56-b552-405a-bcd2-860243f5eb70&wid=MCO1481861617&sid=search" target="_blank">Parlante, altavoz, bafle, inalambrico, bluetooth</a>',
+    ],
   },
   {
     name: 'Samuel',
