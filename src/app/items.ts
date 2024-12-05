@@ -21,7 +21,7 @@ export const ITEMS: Card[] = [
       'Esmaltes marca Masglo, colores pastel',
       'No pantalones jeans',
       'Le gusta la ropa negra',
-      'Generalmente es talla XS',
+      'Talla S',
     ],
   },
   {
