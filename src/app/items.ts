@@ -42,6 +42,7 @@ export const ITEMS: Card[] = [
       'Aceite para el pelo elvive',
       'Mascarillas para el pelo de Garnier',
       'Joyero',
+      'Humidificador',
     ],
   },
   {
@@ -67,10 +68,15 @@ export const ITEMS: Card[] = [
   {
     name: 'Samuel',
     img: prefix + 'samuel.jpg',
-    list: [],
+    list: [
+      'Buzos',
+      'Camisas',
+      'Talla S',
+      'LA ROPA SIN NINGUN TIPO DE ESTAMPADOS',
+    ],
   },
   {
-    name: 'mercedes',
+    name: 'Mercedes',
     img: prefix + 'mercedes.jpg',
     list: [
       'Bolso',
@@ -136,7 +142,11 @@ export const ITEMS: Card[] = [
   {
     name: 'Wilson',
     img: prefix + 'wilson.jpg',
-    list: [],
+    list: [
+      'Correa Bosi Negra',
+      'Camisa blanca no de vestido si no formal Talla XL',
+      'Pantaloneta Jean con bolsillos Talla 36',
+    ],
   },
   {
     name: 'Yuber',
