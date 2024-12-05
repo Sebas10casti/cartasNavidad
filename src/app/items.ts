@@ -37,7 +37,12 @@ export const ITEMS: Card[] = [
   {
     name: 'Valen',
     img: prefix + 'valen.png',
-    list: [],
+    list: [
+      'Libro: lo que nunca cambia en el mundo cambiante, que harias si no tuvieras miedo, el poder del ahora.',
+      'Aceite para el pelo elvive',
+      'Mascarillas para el pelo de Garnier',
+      'Joyero',
+    ],
   },
   {
     name: 'Alfonso',
@@ -66,6 +71,9 @@ export const ITEMS: Card[] = [
       'No le gusta el color rojo',
       'No le gusta el color morado',
       'No le gusta la ropa de rayas',
+      'Blusa manga sisa cuello tortuga',
+      'Talla L',
+      'Buso',
     ],
   },
   {
