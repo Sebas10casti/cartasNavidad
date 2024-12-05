@@ -1,0 +1,23 @@
+<div class="col shadow">
+  <div class="card-container ">
+    <div
+      class="card card-flip"
+      [class.is-flipped]="toggleCard"
+      (click)="flipCard()"
+    >
+      <div class="card-front">
+        <img [src]="data.img" class="card-img-top" [alt]="data.name" />
+      </div>
+      <div class="card-back">
+        <div class="card-content">
+          <h5>Información</h5>
+          <ul>
+            @for (item of data.list; track $index) {
+              <li>{{item}}</li>
+            }
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
