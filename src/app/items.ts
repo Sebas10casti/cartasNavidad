@@ -1,7 +1,7 @@
 import { Card } from './models/card.model';
 
-const prefix = 'cartasNavidad/';
-// const prefix = '';
+// const prefix = 'cartasNavidad/';
+const prefix = '';
 
 export const ITEMS: Card[] = [
   {

@@ -18,6 +18,7 @@
           "builder": "@angular-devkit/build-angular:application",
           "options": {
             "outputPath": "dist/navidad-tarjetas",
+            "baseHref": "/cartasNavidad/",
             "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": [
