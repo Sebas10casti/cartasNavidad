@@ -1,19 +1,22 @@
 import { Card } from './models/card.model';
 
+const prefix = 'cartasNavidad/';
+// const prefix = '';
+
 export const ITEMS: Card[] = [
   {
     name: 'Ana',
-    img: 'ana.jpg',
+    img: prefix + 'ana.jpg',
     list: ['Es talla XL', 'Camiseta roja o blanca', 'Sudadera roja o blanca'],
   },
   {
     name: 'Polo',
-    img: 'polo.jpg',
+    img: prefix + 'polo.jpg',
     list: ['Ropa para ciclismo', 'Chaleco', 'Saco', 'Talla M', 'Pantalones 34'],
   },
   {
     name: 'Cata',
-    img: 'cata.jpg',
+    img: prefix + 'cata.jpg',
     list: [
       'Esmaltes marca Masglo, colores pastel',
       'No pantalones jeans',
@@ -23,7 +26,7 @@ export const ITEMS: Card[] = [
   },
   {
     name: 'Sebastián',
-    img: 'sebas.jpg',
+    img: prefix + 'sebas.jpg',
     list: [
       'Herramientas (destornilladores, llaves, etc)',
       'Ropa de atletismo talla M',
@@ -33,12 +36,12 @@ export const ITEMS: Card[] = [
   },
   {
     name: 'Valen',
-    img: 'valen.png',
+    img: prefix + 'valen.png',
     list: [],
   },
   {
     name: 'Alfonso',
-    img: 'alfonso.jpg',
+    img: prefix + 'alfonso.jpg',
     list: [
       'No quiere camisas',
       'Algo para el trabajo (corbatas, sujetadores, etc)',
@@ -47,17 +50,17 @@ export const ITEMS: Card[] = [
   },
   {
     name: 'Marly',
-    img: 'marly.jpg',
+    img: prefix + 'marly.jpg',
     list: [],
   },
   {
     name: 'Samuel',
-    img: 'samuel.jpg',
+    img: prefix + 'samuel.jpg',
     list: [],
   },
   {
     name: 'mercedes',
-    img: 'mercedes.jpg',
+    img: prefix + 'mercedes.jpg',
     list: [
       'Bolso',
       'No le gusta el color rojo',
@@ -67,7 +70,7 @@ export const ITEMS: Card[] = [
   },
   {
     name: 'Pipe',
-    img: 'pipe.jpg',
+    img: prefix + 'pipe.jpg',
     list: [
       'NO quiere billeteras',
       'NO quiere correas',
@@ -78,7 +81,7 @@ export const ITEMS: Card[] = [
   },
   {
     name: 'Mafe',
-    img: 'mafe.jpg',
+    img: prefix + 'mafe.jpg',
     list: [
       'Productos Kaba (cabello)',
       'Bolso',
@@ -88,7 +91,7 @@ export const ITEMS: Card[] = [
   },
   {
     name: 'eduardo',
-    img: 'eduardo.jpg',
+    img: prefix + 'eduardo.jpg',
     list: [
       'Lo que sea',
       'Ropa Talla S',
@@ -101,7 +104,7 @@ export const ITEMS: Card[] = [
   },
   {
     name: 'denis',
-    img: 'denis.jpg',
+    img: prefix + 'denis.jpg',
     list: [
       'Saco',
       'Gaban',
@@ -112,17 +115,17 @@ export const ITEMS: Card[] = [
   },
   {
     name: 'Yolanda',
-    img: 'yola.jpg',
+    img: prefix + 'yola.jpg',
     list: ['Talla L', 'colo negra o gris oscuro', 'una camisa blanca con cola'],
   },
   {
     name: 'Wilson',
-    img: 'wilson.jpg',
+    img: prefix + 'wilson.jpg',
     list: [],
   },
   {
     name: 'Yuber',
-    img: 'yuber.jpg',
+    img: prefix + 'yuber.jpg',
     list: ['Productos para ciclismo', 'Es talla XL', 'Le gusta el color rojo'],
   },
 ];

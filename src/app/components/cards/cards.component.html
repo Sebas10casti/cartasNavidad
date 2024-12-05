@@ -5,7 +5,7 @@
       (click)="flipCard()"
     >
       <div class="card-front">
-        <img [src]="data.img" class="card-img-top" [alt]="data.name" />
+        <img [ngSrc]="data.img" class="card-img-top" [alt]="data.name"  width="300" height="400"/>
       </div>
       <div class="card-back">
         <div class="card-content">
