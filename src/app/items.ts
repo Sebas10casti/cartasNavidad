@@ -49,7 +49,7 @@ export const ITEMS: Card[] = [
     img: prefix + 'alfonso.jpg',
     list: [
       'No quiere camisas',
-      'Algo para el trabajo (corbatas, sujetadores, etc)',
+      'Algo para el trabajo',
       'Medias puede ser una opción',
     ],
   },
