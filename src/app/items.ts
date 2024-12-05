@@ -95,6 +95,7 @@ export const ITEMS: Card[] = [
       'Bolso',
       'Maquillaje',
       'Le gusta el color rosado',
+      'No quiere ropa',
     ],
   },
   {
