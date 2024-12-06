@@ -32,6 +32,7 @@ export const ITEMS: Card[] = [
       'Ropa de atletismo talla M',
       'Me gusta el color rojo, naranja, negro',
       'Gorras para correr',
+      'Audifonos alambricos',
     ],
   },
   {
@@ -70,7 +71,7 @@ export const ITEMS: Card[] = [
     img: prefix + 'samuel.jpg',
     list: [
       'Buzos',
-      'Camisas',
+      'Camisetas',
       'Talla S',
       'LA ROPA SIN NINGUN TIPO DE ESTAMPADOS',
     ],
