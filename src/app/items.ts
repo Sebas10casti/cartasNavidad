@@ -96,8 +96,9 @@ export const ITEMS: Card[] = [
       'NO quiere billeteras',
       'NO quiere correas',
       'No quiere gorras',
-      'No quiere ropa',
-      'Le gustaría una ancheta llena de dulces',
+      '<a href="https://articulo.mercadolibre.com.co/MCO-2537526860-kit-de-limpieza-para-dispositivos-electronicos-20-en-1-_JM#polycard_client=search-nordic&position=16&search_layout=stack&type=item&tracking_id=8c8ad3b7-a842-45a3-a4eb-e8bdd385e889" target="_blank">Kit de limpieza</a>',
+      'Buzo color negro talla M',
+      
     ],
   },
   {
